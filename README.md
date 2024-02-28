@@ -30,11 +30,17 @@ cd reddit_scraping_project
 pip install -r requirements.txt
 ```
 
-The requirements.txt file should contain a list of Python libraries that your script and project depend on, and it should be placed in the root directory.
-
 ## Usage
 After the installation, to start the scraping process, you can run the following command in your terminal:
 
+For JSON Output:
+
 ```bash
-scrapy crawl reddit
+scrapy crawl reddit -o reddit.json
+```
+
+For CSV Output:
+
+```bash
+scrapy crawl reddit -o reddit.csv
 ```
