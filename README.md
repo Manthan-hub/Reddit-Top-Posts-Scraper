@@ -15,7 +15,7 @@ To install and run this project, you'll require Python<=3.x installed, and also 
 1. Clone this repository: 
 
 ```bash
-git clone https://github.com/your_username/reddit_scraping_project.git
+git clone https://github.com/Manthan-hub/Reddit-Top-Posts-Scraper.git
 ```
 
 2. Change directory to the project folder:
