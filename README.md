@@ -9,7 +9,7 @@ This project involves scraping the top 100 posts from user-specified subreddits 
 ## Requirements
 To install and run this project, you'll require Python<=3.x installed, and also the Scrapy Python library:
 - `Scrapy`
-- `pandas` (if you're using it for data manipulation)
+- `Python 3.x` 
 
 ## Installation
 1. Clone this repository: 
