@@ -21,7 +21,7 @@ git clone https://github.com/Manthan-hub/Reddit-Top-Posts-Scraper.git
 2. Change directory to the project folder:
 
 ```bash
-cd reddit_scraping_project
+cd reddit_scraper
 ```
 
 3. Install the required Python libraries:
